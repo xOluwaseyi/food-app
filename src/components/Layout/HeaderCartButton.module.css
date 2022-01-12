@@ -1,12 +1,12 @@
 .button {
   cursor: pointer;
-  font: inherit;
+  font: 30px;
   border: none;
   background-color: #4d1601;
   color: white;
-  padding: 0.75rem 3rem;
+  padding: 0.75rem 1.3rem;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
   border-radius: 25px;
   font-weight: bold;
